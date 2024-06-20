@@ -34,6 +34,6 @@ Soy un desarrollador full stack con experiencia en una amplia gama de tecnologí
 ### Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario_de_github&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario_de_github&layout=compact&theme=radical" alt="Lenguajes más utilizados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andresfelipemena93&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresfelipemena93&layout=compact&theme=radical" alt="Lenguajes más utilizados" />
 </p>
