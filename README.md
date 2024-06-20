@@ -20,8 +20,8 @@ Soy un desarrollador full stack con experiencia en una amplia gama de tecnologí
 
 ### Acerca de mí
 
-- 💼 Actualmente trabajo en [Nombre de la Empresa].
-- 🔭 Estoy trabajando en [Descripción del Proyecto Actual].
+- 💼 Actualmente trabajo en FAJAS MYD.
+- 🔭 Estoy trabajando en App para el control de productividad.
 - 🌱 Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades.
 - 💬 Pregúntame sobre cualquier cosa relacionada con desarrollo web.
 
